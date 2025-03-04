@@ -6,6 +6,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=castilloiriaso&label=Profile+Views&color=brightgreen&style=flat" alt="profile views" />
+</p>
+
 ---
 
 ### 🚀 About Me
@@ -46,8 +50,16 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neptune0001&show_icons=true&theme=tokyonight&count_private=true" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neptune0001&layout=compact&theme=tokyonight" height="150px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Neptune0001&show_icons=true&theme=tokyonight&count_private=true" height="150px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Neptune0001&layout=compact&theme=tokyonight" height="150px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Neptune0001&theme=tokyonight&column=4" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neptune0001&theme=tokyonight" alt="GitHub Activity Graph" />
 </p>
 
 ---
