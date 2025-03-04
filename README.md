@@ -15,7 +15,7 @@
 ### 🚀 About Me
 
 - 🎓 **Computer Science & Software Engineering Student**
-- 🏢 **Currently working at Municipalidad de Coronado (Odoo Developer)**
+- 🏢 **None**
 - 💻 **Passionate about Backend Development, Databases & Cloud Technologies**
 - 🌎 **Lover of open-source and problem-solving**
 - 📚 **Constant learner, always looking for new challenges**
